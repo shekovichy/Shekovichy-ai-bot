@@ -6,9 +6,8 @@ import requests
 from datetime import datetime
 
 # ————————— إعدادات البوت (هنحط بياناتك هنا) —————————
-TELEGRAM_TOKEN = "هنا_تحط_التوكن_اللي_خدته_من_BotFather"
-CHAT_ID = "هنا_تحط_رقم_الآيدي_بتاعك"  # ممكن نجيبه بإنك تبعت رسالة للبوت وتدخل على رابط معين
-
+TELEGRAM_TOKEN = "8224251097:AAGyBS6Ch6pK9GE0EWUbopuoC1fOg4r_fuk"
+CHAT_ID = "@shekovichyaisignals"
 # إعدادات الفحص
 TIMEFRAME = '15m'
 PAIRS_LIMIT = 50  # هنفحص أهم 50 عملة
